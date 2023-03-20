@@ -1,6 +1,10 @@
 # el_bwh
 FiveM Ban/Warning/Help-Assist System for FPX
 
+# info
+- Ban system reworked for [fpx]
+- This is not my script, it's just modified
+
 ## Installation
 1. Rename it to `el_bwh` and put it in your resources folder
 2. Import sql.sql into your database
